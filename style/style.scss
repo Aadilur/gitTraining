@@ -1,3 +1,13 @@
 body{
-    background-color:darkgray;
+    background-color:rgb(57, 66, 66);
+}
+
+$color : rgb(50, 194, 230);
+
+h1 {
+    color: $color;
+}h2 {
+    color: $color;
+}h3 {
+    color: $color;
 }
